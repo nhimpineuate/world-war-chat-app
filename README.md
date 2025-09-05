@@ -57,11 +57,14 @@ A modern AI-powered web application that provides detailed information about Wor
 
 ## 📸 Screenshots
 
-### Main Interface
-![Main Chat Interface](images/chat-interface.png)
+### Main Chat Interface
+![Main Chat Interface](images/chat_1.png)
 
-### Sidebar Controls
-![Sidebar Configuration](images/sidebar-config.png)
+### User Interface Overview
+![User Interface](images/user-interface.png)
+
+### Sidebar and Configuration
+![Sidebar and UI](images/Sidebar%20and%20UI.png)
 
 ## 🛠️ Configuration
 
