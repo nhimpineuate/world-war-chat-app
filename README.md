@@ -26,7 +26,7 @@ A modern AI-powered web application that provides detailed information about Wor
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/world-war-chat-app.git
+   git clone https://github.com/nhimpineuate/world-war-chat-app.git
    cd world-war-chat-app
    ```
 
@@ -84,7 +84,6 @@ world-war-chat-app/
 ├── requirements.txt       # Python dependencies
 ├── .env                   # Environment variables (create this)
 ├── .gitignore            # Git ignore rules
-├── LICENSE               # MIT License
 ├── README.md             # This file
 └── images/               # Screenshots and assets
     ├── chat-interface.png
@@ -157,11 +156,11 @@ This project is for educational purposes and learning demonstration.
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
+Nhimpine Uate - [@nhimpineuate](https://github.com/nhimpineuate)
+Email: nhimpinewate@gmail.com
 
-Project Link: [https://github.com/yourusername/world-war-chat-app](https://github.com/yourusername/world-war-chat-app)
+Project Link: [https://github.com/nhimpineuate/world-war-chat-app](https://github.com/nhimpineuate/world-war-chat-app)
 
 ---
 
 ⭐ **Star this repository if you found it helpful!**
-# world-war-chat-app
